@@ -1,5 +1,5 @@
 const Web3 = require('web3')
-const web3 = new Web3('http://localhost:8545')
+const web3 = new Web3('http://localhost:8545')//local development blockchain ganache
 
 async function main() {
   const account = '0xB3Eb81d66a840b2a1a9b21FF52F3d7668Cac5392'
