@@ -2,7 +2,8 @@ const Web3 = require("web3")
 const web3 = new Web3("https://goerli.infura.io/v3/150d4a84029045bf909c0fa607264e3d")
 const contractAddress = "0x1D83e39E676cD43cD282E6C59903718a89662860"
 const senderAddress = "0xec18A3d572487d4DEFdd3864E7e992148319ca40"
-const PRIVATE_KEY = "e36e452fdf5c6ba33fb664b65d9bf13ea2057c157171381bc782844f80929cf3"
+const PRIVATE_KEY = "private key
+	"
 
 const receiverAddress = "0xe6A9D13D93CbA162A0fB46d338ADD071247910f3"
 const contract = new web3.eth.Contract([
